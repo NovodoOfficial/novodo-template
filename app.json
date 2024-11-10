@@ -1,0 +1,34 @@
+{
+    "details": {
+        "name": "My app",
+        "description": "Template app",
+        "snapshotting": {
+            "version": "1.0.0",
+            "name": "First release!",
+            "notes": "This is the first release of my app"
+        }
+    },
+    "supported": [
+        "Windows",
+        "Linux",
+        "Mac"
+    ],
+    "buttons": [
+        {
+            "name": "Run",
+            "color": {
+                "text": "#ffffff",
+                "bg": "#9cda4a"
+            },
+            "file": "run"
+        },
+        {
+            "name": "Open UI",
+            "color": {
+                "text": "#ffffff",
+                "bg": "#1aa3e8"
+            },
+            "file": "ui"
+        }
+    ]
+}
